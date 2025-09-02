@@ -1,4 +1,5 @@
 📊 Bank of Baroda Stock Analysis using Candlestick Charts
+
 📌 Project Overview
 
 This project demonstrates how to read stock market data from a CSV file, preprocess it using Python (Pandas, NumPy), and visualize price movements with an interactive Candlestick chart (Plotly).
